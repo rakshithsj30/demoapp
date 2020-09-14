@@ -1,0 +1,10 @@
+<resources>
+    <string name="appName">Demo App</string>
+    <string name="dialogTitle">Details</string>
+    <string name="footer">Developed By ABC Inc.</string>
+    <string name="noConnection">No Internet Connection. Please Try Again.</string>
+    <string name="unKnownError">An unknown error occurred. Please try again.</string>
+    <string name="widthLabel">Width: </string>
+    <string name="authorLabel">Author: </string>
+    <string name="heightLabel">Height: </string>
+</resources>
