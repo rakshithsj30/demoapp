@@ -13,6 +13,6 @@ class MainApplication:Application() {
         startKoin(this,
                 listOf(mainModule),
                 loadPropertiesFromFile = true)
-
+sss
     }
 }
