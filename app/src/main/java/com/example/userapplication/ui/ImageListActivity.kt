@@ -98,4 +98,3 @@ class ImageListActivity : AppCompatActivity() ,RecyclerViewCallback {
 	
 	
 }
-oooo
