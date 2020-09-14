@@ -95,4 +95,7 @@ class ImageListActivity : AppCompatActivity() ,RecyclerViewCallback {
         alertDialog.setCancelable(false)
         alertDialog.show()
     }
+	
+	
 }
+oooo

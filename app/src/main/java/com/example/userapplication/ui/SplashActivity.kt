@@ -18,6 +18,6 @@ class SplashActivity : AppCompatActivity() {
             startActivity(Intent(this,ImageListActivity::class.java))
             // close this activity
             finish()
-        }, SPLASH_TIME_OUT) ggg
+        }, SPLASH_TIME_OUT)
     }
 }
