@@ -10,6 +10,8 @@ class MainApplication:Application() {
         super.onCreate()
         //HELLO RAKSHITH
         // starting Koin DI
+        //HI
+        //HELLO
         startKoin(this,
                 listOf(mainModule),
                 loadPropertiesFromFile = true)
