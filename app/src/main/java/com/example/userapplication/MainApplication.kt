@@ -9,7 +9,7 @@ class MainApplication:Application() {
     override fun onCreate() {
         super.onCreate()
      
-        egeytytre23tet23w23
+       // egeytytre23tet23w23
         // starting Koin DI
         startKoin(this,
                 listOf(mainModule),
